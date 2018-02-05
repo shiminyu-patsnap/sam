@@ -1,3 +1,10 @@
+
+spring-boot: 关于springboot的一些demo
+spring-mybatis: 基于java config,整合mybatis,thymeleaf,spring
+spring-xml: 基于xml整合mybatis,thymeleaf,spring
+
+提交时,请选择下列其中一项
+
 type:
 - component 组件
 - ui UI样式
@@ -9,3 +16,5 @@ type:
 - refactor 重构
 - test 测试
 - docs 文档
+
+copyright @ shiminyu@qq.com

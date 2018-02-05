@@ -16,3 +16,4 @@ gen
 dist
 src/config.js
 target
+.DS_Store
