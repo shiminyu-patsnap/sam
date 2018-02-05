@@ -1,0 +1,11 @@
+type:
+- component 组件
+- ui UI样式
+- feature 新功能
+- fix/bugfix 修复问题
+- delete 删除代码或文件
+- improve 改进和优化
+- performance 性能优化
+- refactor 重构
+- test 测试
+- docs 文档
